@@ -1,0 +1,142 @@
+/* Header
+--------------------------------------------------
+
+Developer
+
+Home
+About
+Qualification
+Services
+Projects
+Contact
+
+/* Hero
+--------------------------------------------------
+
+Hi, I am Ali Waqas,<br>Web Developer.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+Assumenda voluptates ad numquam, officiis accusamus similique 
+voluptate! Sint corrupti soluta, expedita dolores.
+
+06
+months<br>Experience
+
+5+
+Projects<br>Completed
+
+/* About
+--------------------------------------------------
+
+About Me
+Who am I
+
+I'm a Professional and Experienced Web Developer.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+Assumenda voluptates ad numquam,officiis accusamus similique 
+voluptate! Sint corrupti soluta, expedita dolores. Similique 
+odit officia quisquam itaque, distinctio quas odio dolor porro
+corporis facilis.
+
+Know More
+
+Technologies I've been working with:
+
+Backend
+
+Python
+MongoDB
+MySQL
+
+Frontend
+HTML
+CSS/Sass
+JavaScript
+Bootstrap
+
+/* Qualification
+--------------------------------------------------
+
+Qualification
+Experience & Education
+
+
+- Professional Experience
+
+Lorem ipsum dolor sit amet consectetur. 
+Facilisi vitae bibendum praesent sodales
+urna vel molestie neque augue.
+
+2021 - Present || 2021 - 2024 || 2022 - present
+
+- Education
+
+UI/UX Designer || BS In Web Development || Computer Scientist
+2021 - present|| 2023 - present || 2022 - 2026
+
+See my full resume
+Resume
+
+/* Services
+--------------------------------------------------
+
+Services
+What I do
+
+Frontend<br>Development || Backend<br> Development || UI/UX<br> Design
+
+Know More
+
+
+/* Projects
+--------------------------------------------------
+
+Projects
+My recent work
+
+
+Agency Website || Crypto Application || Ecommerce Website
+
+Lorem ipsum dolor sit amet consectetur 
+adipisicing elit. Facere,esse ullam 
+nemo velit voluptatum excepturi.
+
+View Project
+
+
+/* Testimonials
+--------------------------------------------------
+
+Testimonialss
+What my clients say
+
+Lorem ipsum dolor sit amet consectetur. Dignissim
+tincidunt egestas vitae porttitor nulla gravida commodo.
+
+
+
+/* Contact 
+--------------------------------------------------
+
+Interested in working together? Let's talk
+
+Lorem ipsum dolor sit amet consectetur adipisicing 
+elit. Distinctio ipsa ut libero, eligendi
+quis ipsum excepturi reprehenderit maxime.
+
+Get in touch
+
+/* Footer
+--------------------------------------------------
+Follow Me
+- Facebook
+- Instagram
+- Twitter
+- Github
+
+Email Me
+contact@dave.com
+
+Call Me
+(936) 789 - 054
